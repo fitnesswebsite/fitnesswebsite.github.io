@@ -1,0 +1,47 @@
+.background{
+   background-image:url("https://images.unsplash.com/photo-1521917441209-e886f0404a7b?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=c9da9e12bc69d92a619d44059a8d335f&auto=format&fit=crop&w=1300&q=80");
+   background-repeat: :no-repeat;
+   background-position: center;
+   background-size: cover;
+   filter: saturate(140%);
+   resize: both;
+   padding: 5px;
+   padding-bottom: 400px;
+   margin: 0px;
+   background-attachment: fixed;
+}
+
+.title{
+color: white;
+font-size: 95px;
+margin-top: 0px;
+margin-left: 100px;
+}
+
+button {
+    background-color: black;
+    border: none;
+    color: white;
+    padding: 15px 27px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+h{
+font-size: 50px;
+
+}
+
+input{
+padding: 10px 15px;
+
+}
+
+love { color: White; font-size: 25px;}
+
+section{
+font-size: 20px;
+margin: 30px;
+
+}

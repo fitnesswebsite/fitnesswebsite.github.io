@@ -1,0 +1,16 @@
+body {
+  background-color: white;
+}
+
+ol
+{
+  display: inline-block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.top-left {
+  position: absolute;
+  top: 50px;
+  left: 130px;
+  font-size: 95px;
+}

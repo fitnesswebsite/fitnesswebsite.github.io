@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel = "stylesheet" href="restaurants.css">
+<link href='https://fonts.googleapis.com/css?family=Oswald' rel='stylesheet'>
+<head>
+  <style>
+    body {
+      font-family: "Oswald";
+      font-size: 25px;
+    }
+    titlestyle {
+      font-size: 25px;
+    }
+  </style>
+</head>
+
+<body>
+  <nav class = "w3-bar w3-black">
+  <love>
+    <a href="HomePage.html" class="w3-button w3-bar-item">Home</a>
+    <a href="Nutrition.html" class="w3-button w3-bar-item ">Nutrition</a>
+    <a href="musicplaylist.html" class="w3-button w3-bar-item">Music Playlists</a>
+    <div class="w3-dropdown-hover w3-hide-small">
+          <button class=" w3-button" title="exercises"><titlestyle>Exercises</titlestyle> <i class="fa fa-caret-down"></i></button>
+          <div class="w3-dropdown-content w3-bar-block w3-card-4">
+            <a href="Exercises.html" class="w3-bar-item w3-button">Non-Athletes</a>
+            <a href="Volleyball.html" class="w3-bar-item w3-button">Volleyball</a>
+            <a href="Basketball.html" class="w3-bar-item w3-button">Basketball</a>
+            <a href="Soccer.html" class="w3-bar-item w3-button">Soccer</a>
+            <a href="Track.html" class="w3-bar-item w3-button">Track</a>
+            <a href="Baseball.html" class="w3-bar-item w3-button">Baseball</a>
+            <a href="Swimming.html" class="w3-bar-item w3-button">Swimming</a>
+          </div>
+    </div>
+    <a href="restaurants.html" class="w3-button w3-bar-item">Find Restaurants</a>
+  </love>
+  </nav>
+
+  <div class = "background">
+    <strong> <p class = "title"> Find Restaurants </p> </strong>
+  </div>
+
+
+<section>
+<center>
+<h> Finding a place to eat that's healthy isn't always easy....</h>
+</center>
+<br></br>
+<p> Use this tool to find healthy restaurants near you! Just type in the city you'd like to search for. </p>
+
+
+
+<p> Which city would you like to eat in? </p>
+<input type='text' id = 'userInput'></input>
+<button id='submitter' onclick='first_function()'> Find healthy food options!</button>
+<div id = 'city_results'> </div>
+
+
+  <br> </br>
+
+
+
+    <div id = "city">
+
+    </div>
+
+
+    <script src = "restaurants.js"></script>
+    <br></br>
+    <br></br>
+
+
+</section>
+  </body>
+</html>
+
+
+
+
+  <footer class="w3-container w3-padding-64 w3-center w3-black w3-xlarge">
+<i> <p> Powered by <a href = "https://developers.zomato.com/api">Zomato</a>
+  <p> Have any questions? Head to our homepage and contact us there! </p>
+<p> We're happy to respond.</p></i>
+   </footer>

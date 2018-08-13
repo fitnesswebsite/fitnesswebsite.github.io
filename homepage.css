@@ -1,0 +1,104 @@
+.background{
+   background-image:url("https://images.pexels.com/photos/450062/pexels-photo-450062.jpeg?");
+   background-repeat: :no-repeat;
+   background-position: center;
+   background-size: cover;
+   resize: both;
+   padding: 5px;
+
+}
+#demo{
+padding-bottom: 200px;
+font-size: 200px;
+text-align: center;
+color: white;
+
+}
+
+t{font-size : 32px;}
+love { color: White; font-size: 25px;}
+p{font-size: 100px; color: rgb(0, 0, 26);}
+pp{font-size: 60px;  }
+.text{font-size: 30px; margin: 40px;}
+body{
+  text-align: center;
+}
+
+.text {
+font-size: 24px
+}
+.two_elements{
+  display: flex;
+  text-align: center;
+  margin: 20px;
+  image-orientation: center;
+}
+.aboutShaVon{
+  align-items: center;
+      width: 500px;
+      padding: 10px;
+      font-size: 33px;
+  width: 66%;
+}
+
+.aboutGabyP{
+  position: center;
+      width: 500px;
+      padding: 10px;
+      font-size: 33px;
+      width: 66%;
+
+}
+
+.aboutGabyJ{
+  position: center;
+      width: 500px;
+      padding: 10px;
+    font-size: 33px;
+    width: 66%;
+}
+
+.third {
+  width: 33%;
+  text-align: center;
+}
+
+
+
+.container p{
+color: #FFFFFF;
+font-size: 35px;
+
+}
+input[type=text], select, textarea {
+    width: 20%;
+    padding: 1px;
+    border: 1px solid #ccc;
+    border-radius: 2px;
+    box-sizing: border-box;
+    margin-top: 3px;
+    margin-bottom: 3px;
+    font-size: 20px;
+}
+
+input[type=submit] {
+    background-color: #4CAF50;
+    color: white;
+    padding: 1px;
+    border: none;
+    border-radius: 2px;
+    cursor: pointer;
+    font-size: 20px;
+}
+
+input[type=submit]:hover {
+    background-color: #c2c2a3;
+    font-size: 20px;
+}
+
+.container {
+    border-radius: 2px;
+    background-color: #000000;
+    padding: 1px;
+}
+</style>

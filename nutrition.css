@@ -1,0 +1,231 @@
+body {
+   font-family: 'Oswald'; font-size: 22px;
+}
+
+button{font-size : 50px color: blue;}
+center{ font-size: 55px}
+p{font-size: 20px; margin: 20px}
+p2 { font-size: 25px;}
+p3 { font-size: 60px;}
+w{color: rgb(255, 255, 255);}
+
+.background{
+  background-image:url("https://images.pexels.com/photos/1028599/pexels-photo-1028599.jpeg?");
+  background-repeat:no-repeat;
+  background-position:center;
+  background-attachment: fixed;
+  background-size: cover;
+  padding: 108px;
+  color: black;
+  font-size: 75px;
+  margin: 0px;
+}
+
+.element {
+  padding: 0px;
+  text-align: center;
+  width:50%;
+  font-size: 10px;
+}
+
+.element1 {
+  padding: 15px;
+  text-align: center;
+  width:33%;
+  background-repeat:no-repeat;
+  background-attachment: fixed;
+}
+
+.element2 {
+  padding: 15px;
+  text-align: center;
+  width:67%;
+}
+
+.two_elements_black_backgound{
+  display: flex;
+  text-align: center;
+  margin: 0px;
+  background-color: black;
+  color: white;
+  padding-top: 0px;
+  font-size: 80px;
+}
+
+.element2 p {
+  text-align: center;
+  padding: 10px;
+  color: white;
+  font-size: 70px;
+  margin: 0px;
+}
+
+.two_elements{
+  display: flex;
+  text-align: center;
+  margin: 20px;
+  border: 2px solid black;
+}
+.TH_elements{
+  display: flex;
+  text-align: center;
+  margin: 20px;
+}
+
+.footer {
+  color: white;
+  background-color: black;
+  padding-top: 60px;
+  padding-bottom: 60px;
+  padding-left: 20px;
+}
+
+.center{
+  text-align: center;
+  margin: 20px;
+  padding: 40px;
+  border: 2px solid black;
+}
+
+
+lop{padding-left: 20px; width: 33.333%;}
+lup{font-size: 33px; width: 33.333%; padding-top: 20px}
+lip{padding-right:20px; width: 33.333%;}
+
+#breakfast_one {
+  background-image: url("https://www.fitmittenkitchen.com/wp-content/uploads/2017/01/Whole30-Sweet-Potato-Waffle-Egg-Sandwich-8-731x1024.jpg");
+  background-size: contain;
+}
+
+#breakfast_two {
+  background-image: url("http://nutritioninthekitch.com/wp-content/uploads/2015/02/IMGP7034-e1423629115477.jpg");
+  background-size: contain;
+  background-position: right;
+}
+
+#breakfast_three {
+  background-image: url("https://farm4.staticflickr.com/3857/15199130475_9d9f3cea18_c.jpg");
+  background-size: contain;
+}
+
+#lunch_one {
+  background-image: url("https://www.acedarspoon.com/wp-content/uploads/2017/03/Spicy-Asian-Chicken-Zoodle-Soup-Image-5.jpg");
+  background-size: contain;
+}
+
+#lunch_two {
+  background-image: url("http://www.eatgood4life.com/wp-content/uploads/2015/07/grilled-sundried-tomato-spinach-pesto-sandwiches-600x900.jpg");
+  background-size: contain;
+  background-position: right;
+}
+
+#lunch_three {
+  background-image: url("http://cf.wholeandheavenlyoven.com/wp-content/uploads/2016/03/Avocado-Chicken-Salad-Lettuce-Wraps5.jpg");
+  background-size: contain;
+}
+
+#dinner_one {
+  background-image: url("https://tamingofthespoon.com/wp-content/uploads/2016/05/Migas-1-1.jpg");
+  background-size: contain;
+}
+
+#dinner_two {
+  background-image: url("https://gimmedelicious.com/wp-content/uploads/2016/02/honey-garlic-shrimp-8-of-10.jpg");
+  background-size: contain;
+  background-position: right;
+}
+
+#dinner_three {
+  background-image: url("https://lh6.googleusercontent.com/-guLg1rxWn1I/UHr3JY9oNNI/AAAAAAAAIVU/bC5COIzQq5k/s640/Chicken+Lime+Soup+above.jpg");
+  background-size: contain;
+}
+
+#dessert_one {
+  background-image: url("https://cdn.shopify.com/s/files/1/0659/7615/products/e-liquid-key-lime-pie-v2-1_large-compressor_d2d91717-f8fc-4ef2-880e-73f1e5a5f337.jpeg?");
+  background-size: contain;
+  background-position: left;
+}
+
+#dessert_two {
+  background-image: url("https://onelittleproject.com/wp-content/uploads/2016/06/DSC_6675.jpg");
+  background-size: contain;
+  background-position: right;
+}
+
+#dessert_three {
+  background-image: url("https://tastesbetterfromscratch.com/wp-content/uploads/2014/10/Apple-Crisp-5.jpg");
+  background-size: contain;
+  background-position: left;
+}
+
+#smoothies, #smoothies2, #smoothies3 {
+  font-size: 44px;
+}
+
+.drink {
+  background-color: black;
+  color: white;
+  text-align: center;
+  padding: 15px;
+  font-size: 70px;
+}
+
+.drink_back {
+  background-image:url("https://images.pexels.com/photos/900103/pexels-photo-900103.jpeg?");
+  background-repeat:no-repeat;
+  background-position:center;
+  background-attachment: fixed;
+  background-size: cover;
+  padding: 108px;
+  color: white;
+  font-size: 75px;
+  margin: 0px;
+}
+
+.background_one {
+  background-image:url("https://images.pexels.com/photos/988865/pexels-photo-988865.jpeg?");
+  background-repeat:no-repeat;
+  background-position:center;
+  background-attachment: fixed;
+  background-size: cover;
+  padding: 108px;
+  color: white;
+  font-size: 75px;
+  margin: 0px;
+}
+
+.background_two {
+  background-image:url("https://images.pexels.com/photos/326278/pexels-photo-326278.jpeg");
+  background-repeat:no-repeat;
+  background-position:center;
+  background-attachment: fixed;
+  background-size: cover;
+  padding: 108px;
+  color: white;
+  font-size: 75px;
+  margin: 0px;
+}
+
+.background_three {
+  background-image:url("https://images.pexels.com/photos/970108/pexels-photo-970108.jpeg?");
+  background-repeat:no-repeat;
+  background-position:center;
+  background-attachment: fixed;
+  background-size: cover;
+  padding: 108px;
+  color: white;
+  font-size: 75px;
+  margin: 0px;
+}
+
+.background_four {
+  background-image:url("https://images.pexels.com/photos/970104/pexels-photo-970104.jpeg?");
+  background-repeat:no-repeat;
+  background-position:center;
+  background-attachment: fixed;
+  background-size: cover;
+  padding: 108px;
+  color: white;
+  font-size: 75px;
+  margin: 0px;
+}

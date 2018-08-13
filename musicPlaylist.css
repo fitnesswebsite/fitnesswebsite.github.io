@@ -1,0 +1,35 @@
+
+
+.background{
+   background-image:url("https://images.unsplash.com/photo-1490476323407-63a2b2baa393?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=82eb316e953481f7cd6a76ee75eb260f&auto=format&fit=crop&w=1669&q=80");
+   background-repeat: :no-repeat;
+   background-position: center;
+   background-size: cover;
+   resize: both;
+   padding: 5px;
+   padding-bottom: 400px;
+   margin: 0px;
+   background-attachment: fixed;
+}
+love { color: black; font-size: 25px;}
+
+.title{
+  color: white;
+  font-size: 95px;
+  margin-top: 0px;
+  margin-left: 100px;
+}
+
+.text
+{font-size: 40px ; margin: 40px; }
+
+body {
+background-color: white;
+}
+
+iframe{
+margin: 0px;
+}
+#nav {
+  color: white;
+}
